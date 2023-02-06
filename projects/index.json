@@ -1,0 +1,282 @@
+[
+    {
+        "id": "01",
+        "thumbnail": "./projects/project_01/tizer.gif",
+        "index": "./projects/project_01/index.html",
+        "tagline": "Проектирование, дизайн-концепция",
+        "title": "Лэндинг про новую кредитную карту",
+        "caption": "© Банк Хоум, 2017"
+    },
+    {
+        "id": "02",
+        "thumbnail": "./projects/project_02/tizer.gif",
+        "index": "./projects/project_01/index.html",
+        "tagline": "Проектирование, дизайн-концепция, арт-дирекшн",
+        "title": "Лэндинг рассрочки для Samsung S8",
+        "caption": "© Банк Хоум, 2017"
+    },
+    {
+        "id": "03",
+        "thumbnail": "./projects/project_03/cover.png",
+        "index": "./projects/project_01/index.html",
+        "tagline": "Проектирование, дизайн-концепция, арт-дирекшн",
+        "title": "Лэндинг рассрочки для Samsung S8",
+        "caption": "© Банк Хоум, 2017"
+    },
+    {
+        "id": "04",
+        "thumbnail": "./projects/project_04/cover.png",
+        "index": "./projects/project_01/index.html",
+        "tagline": "Проектирование, дизайн-концепция, арт-дирекшн",
+        "title": "Лэндинг рассрочки для Samsung S8",
+        "caption": "© Банк Хоум, 2017"
+    },
+    {
+        "id": "05",
+        "thumbnail": "./projects/project_05/cover.png",
+        "index": "./projects/project_01/index.html",
+        "tagline": "Проектирование, дизайн-концепция, арт-дирекшн",
+        "title": "Лэндинг рассрочки для Samsung S8",
+        "caption": "© Банк Хоум, 2017"
+    },
+    {
+        "id": "06",
+        "thumbnail": "./projects/project_06/cover.png",
+        "index": "./projects/project_01/index.html",
+        "tagline": "Проектирование, дизайн-концепция, арт-дирекшн",
+        "title": "Лэндинг рассрочки для Samsung S8",
+        "caption": "© Банк Хоум, 2017"
+    },
+    {
+        "id": "07",
+        "thumbnail": "./projects/project_01/cover.png",
+        "index": "./projects/project_01/index.html",
+        "tagline": "Проектирование, дизайн-концепция, арт-дирекшн",
+        "title": "Лэндинг рассрочки для Samsung S8",
+        "caption": "© Банк Хоум, 2017"
+    },
+    {
+        "id": "08",
+        "thumbnail": "./projects/project_02/cover.png",
+        "index": "./projects/project_01/index.html",
+        "tagline": "Проектирование, дизайн-концепция, арт-дирекшн",
+        "title": "Лэндинг рассрочки для Samsung S8",
+        "caption": "© Банк Хоум, 2017"
+    },
+    {
+        "id": "09",
+        "thumbnail": "./projects/project_03/cover.png",
+        "index": "./projects/project_01/index.html",
+        "tagline": "Проектирование, дизайн-концепция, арт-дирекшн",
+        "title": "Лэндинг рассрочки для Samsung S8",
+        "caption": "© Банк Хоум, 2017"
+    },
+    {
+        "id": "10",
+        "thumbnail": "./projects/project_04/cover.png",
+        "index": "./projects/project_01/index.html",
+        "tagline": "Проектирование, дизайн-концепция, арт-дирекшн",
+        "title": "Лэндинг рассрочки для Samsung S8",
+        "caption": "© Банк Хоум, 2017"
+    },
+    {
+        "id": "11",
+        "thumbnail": "./projects/project_05/cover.png",
+        "index": "./projects/project_01/index.html",
+        "tagline": "Проектирование, дизайн-концепция, арт-дирекшн",
+        "title": "Лэндинг рассрочки для Samsung S8",
+        "caption": "© Банк Хоум, 2017"
+    },
+    {
+        "id": "12",
+        "thumbnail": "./projects/project_06/cover.png",
+        "index": "./projects/project_01/index.html",
+        "tagline": "Проектирование, дизайн-концепция, арт-дирекшн",
+        "title": "Лэндинг рассрочки для Samsung S8",
+        "caption": "© Банк Хоум, 2017"
+    },
+    {
+        "id": "13",
+        "thumbnail": "./projects/project_01/cover.png",
+        "index": "./projects/project_01/index.html",
+        "tagline": "Проектирование, дизайн-концепция, арт-дирекшн",
+        "title": "Лэндинг рассрочки для Samsung S8",
+        "caption": "© Банк Хоум, 2017"
+    },
+    {
+        "id": "14",
+        "thumbnail": "./projects/project_02/cover.png",
+        "index": "./projects/project_01/index.html",
+        "tagline": "Проектирование, дизайн-концепция, арт-дирекшн",
+        "title": "Лэндинг рассрочки для Samsung S8",
+        "caption": "© Банк Хоум, 2017"
+    },
+    {
+        "id": "15",
+        "thumbnail": "./projects/project_03/cover.png",
+        "index": "./projects/project_01/index.html",
+        "tagline": "Проектирование, дизайн-концепция, арт-дирекшн",
+        "title": "Лэндинг рассрочки для Samsung S8",
+        "caption": "© Банк Хоум, 2017"
+    },
+    {
+        "id": "16",
+        "thumbnail": "./projects/project_04/cover.png",
+        "index": "./projects/project_01/index.html",
+        "tagline": "Проектирование, дизайн-концепция, арт-дирекшн",
+        "title": "Лэндинг рассрочки для Samsung S8",
+        "caption": "© Банк Хоум, 2017"
+    },
+    {
+        "id": "17",
+        "thumbnail": "./projects/project_05/cover.png",
+        "index": "./projects/project_01/index.html",
+        "tagline": "Проектирование, дизайн-концепция, арт-дирекшн",
+        "title": "Лэндинг рассрочки для Samsung S8",
+        "caption": "© Банк Хоум, 2017"
+    },
+    {
+        "id": "18",
+        "thumbnail": "./projects/project_06/cover.png",
+        "index": "./projects/project_01/index.html",
+        "tagline": "Проектирование, дизайн-концепция, арт-дирекшн",
+        "title": "Лэндинг рассрочки для Samsung S8",
+        "caption": "© Банк Хоум, 2017"
+    },
+    {
+        "id": "19",
+        "thumbnail": "./projects/project_01/cover.png",
+        "index": "./projects/project_01/index.html",
+        "tagline": "Проектирование, дизайн-концепция, арт-дирекшн",
+        "title": "Лэндинг рассрочки для Samsung S8",
+        "caption": "© Банк Хоум, 2017"
+    },
+    {
+        "id": "20",
+        "thumbnail": "./projects/project_02/cover.png",
+        "index": "./projects/project_01/index.html",
+        "tagline": "Проектирование, дизайн-концепция, арт-дирекшн",
+        "title": "Лэндинг рассрочки для Samsung S8",
+        "caption": "© Банк Хоум, 2017"
+    },
+    {
+        "id": "21",
+        "thumbnail": "./projects/project_03/cover.png",
+        "index": "./projects/project_01/index.html",
+        "tagline": "Проектирование, дизайн-концепция, арт-дирекшн",
+        "title": "Лэндинг рассрочки для Samsung S8",
+        "caption": "© Банк Хоум, 2017"
+    },
+    {
+        "id": "22",
+        "thumbnail": "./projects/project_04/cover.png",
+        "index": "./projects/project_01/index.html",
+        "tagline": "Проектирование, дизайн-концепция, арт-дирекшн",
+        "title": "Лэндинг рассрочки для Samsung S8",
+        "caption": "© Банк Хоум, 2017"
+    },
+    {
+        "id": "23",
+        "thumbnail": "./projects/project_05/cover.png",
+        "index": "./projects/project_01/index.html",
+        "tagline": "Проектирование, дизайн-концепция, арт-дирекшн",
+        "title": "Лэндинг рассрочки для Samsung S8",
+        "caption": "© Банк Хоум, 2017"
+    },
+    {
+        "id": "24",
+        "thumbnail": "./projects/project_06/cover.png",
+        "index": "./projects/project_01/index.html",
+        "tagline": "Проектирование, дизайн-концепция, арт-дирекшн",
+        "title": "Лэндинг рассрочки для Samsung S8",
+        "caption": "© Банк Хоум, 2017"
+    },
+    {
+        "id": "25",
+        "thumbnail": "./projects/project_01/cover.png",
+        "index": "./projects/project_01/index.html",
+        "tagline": "Проектирование, дизайн-концепция, арт-дирекшн",
+        "title": "Лэндинг рассрочки для Samsung S8",
+        "caption": "© Банк Хоум, 2017"
+    },
+    {
+        "id": "26",
+        "thumbnail": "./projects/project_02/cover.png",
+        "index": "./projects/project_01/index.html",
+        "tagline": "Проектирование, дизайн-концепция, арт-дирекшн",
+        "title": "Лэндинг рассрочки для Samsung S8",
+        "caption": "© Банк Хоум, 2017"
+    },
+    {
+        "id": "27",
+        "thumbnail": "./projects/project_03/cover.png",
+        "index": "./projects/project_01/index.html",
+        "tagline": "Проектирование, дизайн-концепция, арт-дирекшн",
+        "title": "Лэндинг рассрочки для Samsung S8",
+        "caption": "© Банк Хоум, 2017"
+    },
+    {
+        "id": "28",
+        "thumbnail": "./projects/project_04/cover.png",
+        "index": "./projects/project_01/index.html",
+        "tagline": "Проектирование, дизайн-концепция, арт-дирекшн",
+        "title": "Лэндинг рассрочки для Samsung S8",
+        "caption": "© Банк Хоум, 2017"
+    },
+    {
+        "id": "29",
+        "thumbnail": "./projects/project_05/cover.png",
+        "index": "./projects/project_01/index.html",
+        "tagline": "Проектирование, дизайн-концепция, арт-дирекшн",
+        "title": "Лэндинг рассрочки для Samsung S8",
+        "caption": "© Банк Хоум, 2017"
+    },
+    {
+        "id": "30",
+        "thumbnail": "./projects/project_06/cover.png",
+        "index": "./projects/project_01/index.html",
+        "tagline": "Проектирование, дизайн-концепция, арт-дирекшн",
+        "title": "Лэндинг рассрочки для Samsung S8",
+        "caption": "© Банк Хоум, 2017"
+    },
+    {
+        "id": "31",
+        "thumbnail": "./projects/project_01/cover.png",
+        "index": "./projects/project_01/index.html",
+        "tagline": "Проектирование, дизайн-концепция, арт-дирекшн",
+        "title": "Лэндинг рассрочки для Samsung S8",
+        "caption": "© Банк Хоум, 2017"
+    },
+    {
+        "id": "32",
+        "thumbnail": "./projects/project_02/cover.png",
+        "index": "./projects/project_01/index.html",
+        "tagline": "Проектирование, дизайн-концепция, арт-дирекшн",
+        "title": "Лэндинг рассрочки для Samsung S8",
+        "caption": "© Банк Хоум, 2017"
+    },
+    {
+        "id": "33",
+        "thumbnail": "./projects/project_03/cover.png",
+        "index": "./projects/project_01/index.html",
+        "tagline": "Проектирование, дизайн-концепция, арт-дирекшн",
+        "title": "Лэндинг рассрочки для Samsung S8",
+        "caption": "© Банк Хоум, 2017"
+    },
+    {
+        "id": "34",
+        "thumbnail": "./projects/project_04/cover.png",
+        "index": "./projects/project_01/index.html",
+        "tagline": "Проектирование, дизайн-концепция, арт-дирекшн",
+        "title": "Лэндинг рассрочки для Samsung S8",
+        "caption": "© Банк Хоум, 2017"
+    },
+    {
+        "id": "35",
+        "thumbnail": "./projects/project_05/cover.png",
+        "index": "./projects/project_01/index.html",
+        "tagline": "Проектирование, дизайн-концепция, арт-дирекшн",
+        "title": "Лэндинг рассрочки для Samsung S8",
+        "caption": "© Банк Хоум, 2017"
+    }
+]
